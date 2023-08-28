@@ -29,7 +29,7 @@ This project demonstrates a custom knowledge chatbot that uses LangChain to hand
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/chatbot-with-pdfs.git
+   git clone https://github.com/Damilola-Yinusa/chatbot-with-pdfs.git
    cd chatbot-with-pdfs
    ```
 
